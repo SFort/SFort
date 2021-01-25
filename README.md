@@ -1,8 +1,4 @@
-<details>
-<summary>
-Minecraft mods
-</summary>
-    
+# Minecraft mods
 - [Invis Item Frames](https://github.com/SFort/MC-invisframes)
 - [Invis Armor](https://github.com/SFort/MC-skinshine)
 - [Always Eat](https://github.com/SFort/MC-eternaleats)
@@ -16,27 +12,21 @@ Minecraft mods
 
 #### Forks
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
-- [Faster Minecarts - with shitty re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
-#### Beta / Abandoned (I'd stay clear of these if you like performance and stability)
+- [Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
+#### Beta / Abandoned / buggy as hell
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
 - [Force connects ppl to my server](https://github.com/SFort/MC-forceconnect)
-</details>
-<details><summary>
-Rust lang stuff
-</summary>
+
+# Rust lang
 
 #### Programs
-
 - [Team Fortress 2 Duel History](https://github.com/SFort/TF2-Duel_history_formatter)
 
 #### Libs
-
 - [(Valve)Steam Guard 2FA](https://github.com/SFort/steam_guard)
 
-</details>
+### Other / trash
 
-<details><summary>Other</summary>
-  
 - [home dir backup](https://github.com/SFort/home)
 - [steam skin that centers the friendlist to be more friendly to tileing](https://github.com/SFort/Compact)
 - [old non-existent Elemental Realms db handler](https://github.com/SFort/ER-MC_Editor)
@@ -44,9 +34,5 @@ Rust lang stuff
 - [shitty incompleate chance based tile game](https://github.com/SFort/tilegame-client)
 - [json exporter for old non existent Elemental Realms stuff](https://github.com/SFort/ER-json_glue)
 - [basicly git clone in a executable intended for installing mc modpacks](https://github.com/SFort/projectQuarry)
-</details>
 
-[Help wanted]( https://github.com/issues?q=is:open+is:issue+org:SFort+archived:false+label:"help+wanted")
-
-
-
+## [Uresolved Issues / Help wanted]( https://github.com/issues?q=is:open+is:issue+org:SFort+archived:false+label:"help+wanted")
