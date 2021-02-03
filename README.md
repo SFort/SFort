@@ -9,9 +9,12 @@
 - [Pigs Carry Chests](https://github.com/SFort/MC-haulinghog)
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [Cleaner UI](https://github.com/SFort/MC-LessClutter)
+
+#### Github Exsclusive
+- [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
 - [Force all Resource packs](https://github.com/SFort/MC-RequiredResources)
 
-#### Forks
+##### Forks
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
 - [Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
 #### Beta / Abandoned / buggy as hell
