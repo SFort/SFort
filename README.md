@@ -9,8 +9,6 @@
 - [Pigs Carry Chests](https://github.com/SFort/MC-haulinghog)
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [Cleaner UI](https://github.com/SFort/MC-LessClutter)
-
-#### Github Exsclusive
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
 - [Force all Resource packs](https://github.com/SFort/MC-RequiredResources)
 
