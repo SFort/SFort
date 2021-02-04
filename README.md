@@ -17,6 +17,7 @@
 ##### Forks
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
 - [Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
+- [Trash-it but working](https://github.com/SFort/trash-it)
 #### Beta / Abandoned / buggy as hell
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
 - [Force connects ppl to my server](https://github.com/SFort/MC-forceconnect)
