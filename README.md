@@ -11,6 +11,7 @@
 - [Cleaner UI](https://github.com/SFort/MC-LessClutter)
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
 - [Force all Resource packs](https://github.com/SFort/MC-RequiredResources)
+- [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 
 ##### Forks
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
