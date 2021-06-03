@@ -20,7 +20,6 @@
 - [Trash-it but working](https://github.com/SFort/trash-it)
 #### Beta / Abandoned / buggy as hell
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
-- [Force connects ppl to my server](https://github.com/SFort/MC-forceconnect)
 
 # Rust lang
 
