@@ -10,7 +10,6 @@
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [Cleaner UI](https://github.com/SFort/MC-LessClutter)
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
-- [Force all Resource packs](https://github.com/SFort/MC-RequiredResources)
 - [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
 
