@@ -13,7 +13,8 @@
 - [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
 
-##### Forks
+##### Forks (if not ported to latest version pleate submit issue)
+- [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
 - [Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
 - [Trash-it but working](https://github.com/SFort/trash-it)
