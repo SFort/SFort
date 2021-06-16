@@ -4,7 +4,7 @@
 - [Always Eat](https://github.com/SFort/MC-eternaleats)
 - [Configurable Regen](https://github.com/SFort/MC-oldregen)
 - [Enchanting Table keeps lapis](https://github.com/SFort/MC-lapisreserve)
-- [Ladders](https://github.com/SFort/MC-lengthyladders)
+- [Long Ladders](https://github.com/SFort/MC-lengthyladders)
 - [No Player Names](https://github.com/SFort/MC-noplayerlabels)
 - [Pigs Carry Chests](https://github.com/SFort/MC-haulinghog)
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
@@ -12,6 +12,7 @@
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
 - [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
+- [Remove Stasis Pearls](https://github.com/SFort/MC-stasispearl)
 
 ##### Forks (if not ported to latest version pleate submit issue)
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
