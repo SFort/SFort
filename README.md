@@ -17,7 +17,7 @@
 ##### Forks (mostly ports to latest MC version)
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
-- [Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
+- ~~[Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)~~
 - [Trash-it but working](https://github.com/SFort/trash-it)
 - [Extra Pieces](https://github.com/SFort/extra-pieces)
 #### Beta / Abandoned / buggy as hell
