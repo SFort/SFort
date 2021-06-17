@@ -14,11 +14,12 @@
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
 - [Remove Stasis Pearls](https://github.com/SFort/MC-stasispearl)
 
-##### Forks (if not ported to latest version pleate submit issue)
+##### Forks (mostly ports to latest MC version)
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
 - [Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)
 - [Trash-it but working](https://github.com/SFort/trash-it)
+- [Extra Pieces](https://github.com/SFort/extra-pieces)
 #### Beta / Abandoned / buggy as hell
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
 
