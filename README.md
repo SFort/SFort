@@ -12,7 +12,8 @@
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
 - [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
-- [Remove Stasis Pearls](https://github.com/SFort/MC-stasispearl)
+- [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
+- [No Mending](https://github.com/SFort/MC-nomend)
 
 ##### Forks (mostly ports to latest MC version)
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
