@@ -14,6 +14,7 @@
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
 - [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
 - [No Mending](https://github.com/SFort/MC-nomend)
+- [No Sleep](https://github.com/SFort/MC-nosleep)
 
 ##### Forks (mostly ports to latest MC version)
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
