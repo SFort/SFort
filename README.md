@@ -15,6 +15,7 @@
 - [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
 - [No Mending](https://github.com/SFort/MC-nomend)
 - [No Sleep](https://github.com/SFort/MC-nosleep)
+- [No Ingot Drops](https://github.com/SFort/MC-noingotloot)
 
 ##### Forks (mostly ports to latest MC version)
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
