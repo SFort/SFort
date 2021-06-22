@@ -12,6 +12,8 @@
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
 - [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
+
+##### only on github
 - [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
 - [No Mending](https://github.com/SFort/MC-nomend)
 - [No Sleep](https://github.com/SFort/MC-nosleep)
