@@ -26,6 +26,7 @@
 - [Trash-it but working](https://github.com/SFort/trash-it)
 - [Extra Pieces](https://github.com/SFort/extra-pieces)
 - [Fabrication butchered to run on 1.17](https://github.com/SFort/Fabrication)
+- [BeaconFlight](https://github.com/SFort/BeaconFlight)
 
 #### Beta / Abandoned / buggy as hell
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
