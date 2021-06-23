@@ -1,6 +1,5 @@
 # Minecraft mods
 - [Invis Item Frames](https://github.com/SFort/MC-invisframes)
-- [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
 - [Invis Armor](https://github.com/SFort/MC-skinshine)
 - [Always Eat](https://github.com/SFort/MC-eternaleats)
 - [Configurable Regen](https://github.com/SFort/MC-oldregen)
@@ -15,6 +14,7 @@
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
 
 ##### only on github
+- [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
 - [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
 - [No Mending](https://github.com/SFort/MC-nomend)
 - [No Sleep](https://github.com/SFort/MC-nosleep)
