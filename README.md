@@ -1,5 +1,6 @@
 # Minecraft mods
 - [Invis Item Frames](https://github.com/SFort/MC-invisframes)
+- [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
 - [Invis Armor](https://github.com/SFort/MC-skinshine)
 - [Always Eat](https://github.com/SFort/MC-eternaleats)
 - [Configurable Regen](https://github.com/SFort/MC-oldregen)
