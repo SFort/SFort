@@ -13,7 +13,7 @@
 - [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
 
-##### only on github
+##### Github exclusive
 - [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
 - [Forced Resource Packs](https://github.com/SFort/MC-defresource)
 - [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
@@ -21,7 +21,7 @@
 - [No Sleep](https://github.com/SFort/MC-nosleep)
 - [No Ingot Drops](https://github.com/SFort/MC-noingotloot)
 
-##### Forks (mostly ports to latest MC version)
+##### Maintained Forks
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
 - ~~[Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)~~
@@ -30,7 +30,7 @@
 - [Fabrication butchered to run on 1.17](https://github.com/SFort/Fabrication)
 - [BeaconFlight](https://github.com/SFort/BeaconFlight)
 
-#### Beta / Abandoned / buggy as hell
+#### Alpha
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
 
 # Rust lang
