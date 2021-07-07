@@ -41,7 +41,8 @@
 #### Libs
 - [(Valve)Steam Guard 2FA](https://github.com/SFort/steam_guard)
 
-### Other / trash
+<details>
+<summary>Other / trash</summary>
 
 - [home dir backup](https://github.com/SFort/home)
 - [steam skin that centers the friendlist to be more friendly to tileing](https://github.com/SFort/Compact)
@@ -50,5 +51,7 @@
 - [shitty incompleate chance based tile game](https://github.com/SFort/tilegame-client)
 - [json exporter for old non existent Elemental Realms stuff](https://github.com/SFort/ER-json_glue)
 - [basicly git clone in a executable intended for installing mc modpacks](https://github.com/SFort/projectQuarry)
+  
+</details>
 
-## [Uresolved Issues / Help wanted]( https://github.com/issues?q=is:open+is:issue+org:SFort+archived:false+label:"help+wanted")
+### [Uresolved Issues / Help wanted]( https://github.com/issues?q=is:open+is:issue+org:SFort+archived:false+label:"help+wanted")
