@@ -10,8 +10,9 @@
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [Cleaner UI](https://github.com/SFort/MC-LessClutter)
 - [Operate (Block Breaking)](https://github.com/SFort/MC-Operate)
-- [Configurable Beacon range](https://github.com/SFort/MC-betterbeacon)
-- [Configurable Nether scale](https://github.com/SFort/MC-subspacebubbleburster)
+- [Configurable Beacon Range](https://github.com/SFort/MC-betterbeacon)
+- [Configurable Nether Scale](https://github.com/SFort/MC-subspacebubbleburster)
+- [Configurable Survival Flight](https://github.com/SFort/MC-SurvivalFlight)
 
 ##### Github exclusive
 - [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
