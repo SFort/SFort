@@ -21,6 +21,7 @@
 - [No Mending](https://github.com/SFort/MC-nomend)
 - [No Sleep](https://github.com/SFort/MC-nosleep)
 - [No Ingot Drops](https://github.com/SFort/MC-noingotloot)
+- [Anvil fully repairs](https://github.com/SFort/MC-fullfix)
 
 ##### Maintained Forks
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
