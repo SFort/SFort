@@ -13,6 +13,7 @@
 - [Configurable Beacon Range](https://github.com/SFort/MC-betterbeacon)
 - [Configurable Nether Scale](https://github.com/SFort/MC-subspacebubbleburster)
 - [Configurable Survival Flight](https://github.com/SFort/MC-SurvivalFlight)
+- [Houndrets of tweaks packaged into a mod](https://github.com/unascribed/Fabrication)
 
 ##### Github exclusive
 - [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
@@ -29,7 +30,6 @@
 - ~~[Faster Minecarts - with diagonal re-texture](https://github.com/SFort/faster-minecarts/tree/textured)~~
 - [Trash-it but working](https://github.com/SFort/trash-it)
 - [Extra Pieces](https://github.com/SFort/extra-pieces)
-- [Fabrication butchered to run on 1.17](https://github.com/SFort/Fabrication)
 
 #### Alpha
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
