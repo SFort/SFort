@@ -42,15 +42,18 @@
 #### Libs
 - [(Valve)Steam Guard 2FA](https://github.com/SFort/steam_guard)
 
+### Other
+- [steam-dmenu](https://github.com/SFort/steam-dmenu)
+- [steam skin that centers the friendlist to be more friendly to tileing](https://github.com/SFort/Compact)
+- [exporter for old non existent ElementalRealmsDB in the astronomical chance you used it](https://github.com/SFort/ER-json_glue)
+
 <details>
-<summary>Other / trash</summary>
+<summary>trash</summary>
 
 - [home dir backup](https://github.com/SFort/home)
-- [steam skin that centers the friendlist to be more friendly to tileing](https://github.com/SFort/Compact)
 - [old non-existent Elemental Realms db handler](https://github.com/SFort/ER-MC_Editor)
 - [old non-existent Elemental Realms installer/launcher/client with missing commits this was the latest backup i could find](https://github.com/SFort/ER-MC_Client)
 - [shitty incompleate chance based tile game](https://github.com/SFort/tilegame-client)
-- [json exporter for old non existent Elemental Realms stuff](https://github.com/SFort/ER-json_glue)
 - [basicly git clone in a executable intended for installing mc modpacks](https://github.com/SFort/projectQuarry)
   
 </details>
