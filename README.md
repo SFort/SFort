@@ -24,6 +24,9 @@
 - [No Ingot Drops](https://github.com/SFort/MC-noingotloot)
 - [Anvil fully repairs](https://github.com/SFort/MC-fullfix)
 
+##### Libs
+- [FScript](https://github.com/SFort/fscript)
+
 ##### Maintained Forks
 - [Wall Jump - pure ported wall-jumping](https://github.com/SFort/Wall-Jump-Stripped)
 - [Easier Enchanting - Not Actually Easy Edition](https://github.com/SFort/EasierEnchanting)
