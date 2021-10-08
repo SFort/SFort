@@ -18,11 +18,6 @@
 ##### Github exclusive
 - [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
 - [Forced Resource Packs](https://github.com/SFort/MC-defresource)
-- [No Stasis Pearls](https://github.com/SFort/MC-stasispearl)
-- [No Mending](https://github.com/SFort/MC-nomend)
-- [No Sleep](https://github.com/SFort/MC-nosleep)
-- [No Ingot Drops](https://github.com/SFort/MC-noingotloot)
-- [Anvil fully repairs](https://github.com/SFort/MC-fullfix)
 
 ##### Libs
 - [FScript](https://github.com/SFort/fscript)
