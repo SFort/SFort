@@ -1,6 +1,6 @@
 # Minecraft mods
 - [Invis Item Frames](https://github.com/SFort/MC-invisframes)
-- [Skin Shite](https://github.com/SFort/MC-skinshine)
+- [Skin Shine](https://github.com/SFort/MC-skinshine)
 - [Eternal Eats](https://github.com/SFort/MC-eternaleats)
 - [Good Ol' Regen](https://github.com/SFort/MC-oldregen)
 - [Lapis Reserve](https://github.com/SFort/MC-lapisreserve)
