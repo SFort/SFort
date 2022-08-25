@@ -18,7 +18,6 @@
 
 ##### Github exclusive
 - [OCAIP](https://github.com/SFort/MC-OCAIP) - Simultanious Offline/Online Mode with additional Offline auth
-- [Invis Armor Stands](https://github.com/SFort/MC-invisstands)
 - [Forced Resource Packs](https://github.com/SFort/MC-defresource)
 
 ##### Libs
