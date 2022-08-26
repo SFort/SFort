@@ -14,10 +14,10 @@
 - [Subspace Bubble Burster](https://github.com/SFort/MC-subspacebubbleburster)
 - [Survival Flight](https://github.com/SFort/MC-SurvivalFlight)
 - [Fabrication](https://github.com/unascribed/Fabrication)
-- [Libel](https://github.com/sfort/MC-Libel) - shitty port of Fabrication to 1.12.2
 
 ##### Github exclusive
 - [OCAIP](https://github.com/SFort/MC-OCAIP) - Simultanious Offline/Online Mode with additional Offline auth
+- [Libel](https://github.com/sfort/MC-Libel) - shitty port of Fabrication to 1.12.2
 - [Forced Resource Packs](https://github.com/SFort/MC-defresource)
 
 ##### Libs
