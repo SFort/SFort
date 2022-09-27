@@ -1,4 +1,5 @@
 # Minecraft mods
+##### Tweaks / "vanilla+"
 - [Invis Item Frames](https://github.com/SFort/MC-invisframes)
 - [Skin Shine](https://github.com/SFort/MC-skinshine)
 - [Eternal Eats](https://github.com/SFort/MC-eternaleats)
@@ -9,21 +10,22 @@
 - [Hauling Hogs](https://github.com/SFort/MC-haulinghog)
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [LessClutter](https://github.com/SFort/MC-LessClutter)
-- [Operate](https://github.com/SFort/MC-Operate)
 - [Better Beacon / Conduit](https://github.com/SFort/MC-betterbeacon)
 - [Subspace Bubble Burster](https://github.com/SFort/MC-subspacebubbleburster)
 - [Survival Flight](https://github.com/SFort/MC-SurvivalFlight)
 - [Fabrication](https://github.com/unascribed/Fabrication)
+- [OCAIP](https://github.com/SFort/MC-OCAIP) - Simultanious Offline/Online Mode with additional Offline auth
+
+##### Content
+- [Operate](https://github.com/SFort/MC-Operate)
 
 ##### Github exclusive
-- [OCAIP](https://github.com/SFort/MC-OCAIP) - Simultanious Offline/Online Mode with additional Offline auth
 - [Libel](https://github.com/sfort/MC-Libel) - shitty port of Fabrication to 1.12.2
-- [Forced Resource Packs](https://github.com/SFort/MC-defresource)
 
 ##### Libs
 - [FScript](https://github.com/SFort/fscript)
 
-#### Alpha
+#### Alpha / Experimental / Unmaintained
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
 
 # Rust lang
