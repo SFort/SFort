@@ -24,6 +24,7 @@
 
 ##### Libs
 - [FScript](https://github.com/SFort/fscript)
+- [Ini parser](https://github.com/SFort/SF-INI)
 
 #### Alpha / Experimental / Unmaintained
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
