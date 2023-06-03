@@ -19,15 +19,13 @@
 ##### Content
 - [Operate](https://github.com/SFort/MC-Operate)
 
-##### Github exclusive
-- [Libel](https://github.com/sfort/MC-Libel) - shitty port of Fabrication to 1.12.2
-
 ##### Libs
 - [FScript](https://github.com/SFort/fscript)
 - [Ini parser](https://github.com/SFort/SF-INI)
 
 #### Alpha / Experimental / Unmaintained
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
+- [Libel](https://github.com/sfort/MC-Libel) - shitty port of Fabrication to 1.12.2
 
 # Rust lang
 
