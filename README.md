@@ -25,23 +25,19 @@
 
 #### Alpha / Experimental / Unmaintained
 - [Realistic Ish Fluids](https://github.com/SFort/MC-fluid_mixture)
-- [Libel](https://github.com/sfort/MC-Libel) - shitty port of Fabrication to 1.12.2
-
-# Rust lang
-
-#### Programs
-- [Team Fortress 2 Duel History](https://github.com/SFort/TF2-Duel_history_formatter)
-
-#### Libs
-- [(Valve)Steam Guard 2FA](https://github.com/SFort/steam_guard)
+- [Libel](https://github.com/sfort/MC-Libel) - joke port of Fabrication to 1.12.2
 
 ### Other
 - [steam-dmenu](https://github.com/SFort/steam-dmenu)
+- [mpv-fastforward](https://github.com/SFort/mpv-fastforward)
 
 
 <details>
 <summary>trash</summary>
 
+- [(Valve)Steam Guard 2FA](https://github.com/SFort/steam_guard)
+
+- [Team Fortress 2 Duel History](https://github.com/SFort/TF2-Duel_history_formatter)
 - [home dir backup](https://github.com/SFort/home)
 - [steam skin that centers the friendlist to be more friendly to tileing](https://github.com/SFort/Compact)
 - [basicly git clone in a executable intended for installing mc modpacks](https://github.com/SFort/projectQuarry)
