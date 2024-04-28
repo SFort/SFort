@@ -7,7 +7,6 @@
 - [Lapis Reserve](https://github.com/SFort/MC-lapisreserve)
 - [Lengthy Ladders](https://github.com/SFort/MC-lengthyladders)
 - [No Player Labels](https://github.com/SFort/MC-noplayerlabels)
-- [Hauling Hogs](https://github.com/SFort/MC-haulinghog)
 - [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [LessClutter](https://github.com/SFort/MC-LessClutter)
 - [Better Beacon / Conduit](https://github.com/SFort/MC-betterbeacon)
