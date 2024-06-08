@@ -21,7 +21,6 @@
 - [Subspace Bubble Burster](https://github.com/SFort/MC-subspacebubbleburster)
 - [LessClutter](https://github.com/SFort/MC-LessClutter)
 - [Operate](https://github.com/SFort/MC-Operate)
-- [HaulingHog](https://github.com/SFort/MC-haulinghog)
 - [ClublingCobble](https://github.com/SFort/MC-crumblingcobble)
 - [Subspace Bubble Burster](https://github.com/SFort/MC-subspacebubbleburster)
 - [Cleaver Rip](https://github.com/SFort/MC-Yttr-Cleaver-Rip)
