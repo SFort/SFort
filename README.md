@@ -7,7 +7,6 @@
 - [Lapis Reserve](https://github.com/SFort/MC-lapisreserve)
 - [Lengthy Ladders](https://github.com/SFort/MC-lengthyladders)
 - [No Player Labels](https://github.com/SFort/MC-noplayerlabels)
-- [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [Better Beacon / Conduit](https://github.com/SFort/MC-betterbeacon)
 - [Survival Flight](https://github.com/SFort/MC-SurvivalFlight)
 - [Fabrication](https://github.com/unascribed/Fabrication)
@@ -18,6 +17,7 @@
 - [Ini parser](https://github.com/SFort/SF-INI)
 
 #### Unmaintaned
+- [Stackable Stew](https://github.com/SFort/MC-suitablystackablestew)
 - [Subspace Bubble Burster](https://github.com/SFort/MC-subspacebubbleburster)
 - [LessClutter](https://github.com/SFort/MC-LessClutter) (note to self this should probably be part of fabrication)
 - [Operate](https://github.com/SFort/MC-Operate)
