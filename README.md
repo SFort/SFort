@@ -1,4 +1,6 @@
 # Minecraft mods
+([Feature requests](https://github.com/user-attachments/assets/a035e36b-a1a2-4e97-9dde-b181c6d96094))
+
 ##### Tweaks / "vanilla+"
 - [Invis Item Frames](https://github.com/SFort/MC-invisframes)
 - [Skin Shine](https://github.com/SFort/MC-skinshine)
@@ -45,5 +47,3 @@
 - [basicly git clone in a executable intended for installing mc modpacks](https://github.com/SFort/projectQuarry)
   
 </details>
-
-### [Uresolved Issues / Help wanted]( https://github.com/issues?q=is:open+is:issue+org:SFort+archived:false+label:"help+wanted")
