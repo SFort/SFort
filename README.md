@@ -1,5 +1,3 @@
-# https://stopkillinggames.com/
-
 # Minecraft mods
 ([Feature requests](https://github.com/user-attachments/assets/a035e36b-a1a2-4e97-9dde-b181c6d96094))
 
